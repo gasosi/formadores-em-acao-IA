@@ -8,9 +8,17 @@ const perguntas = [
 {
     enunciado: "Pergunta1",
     alternativas: [
+        "alternativa1",
+         "alternativa2"
+    ]
+},
+
+{
+    enunciado: "Pergunta1",
+    alternativas: [
         "alternativa1", "alternativa2"
     ]
-}
+},
 
 {
     enunciado: "Pergunta1",
@@ -19,13 +27,4 @@ const perguntas = [
     ]
 }
 
-{
-    enunciado: "Pergunta1",
-    alternativas: [
-        "alternativa1", "alternativa2"
-    ]
-}
-
-
-
-]
+];
